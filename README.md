@@ -490,6 +490,8 @@ Comprehensive documentation is available:
 | 📖 **README** | Main documentation | [README.md](README.md) |
 | 🚀 **Quick Start** | 5-minute setup guide | [QUICK_START.md](QUICK_START.md) |
 | 💻 **Installation** | Detailed installation steps | [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md) |
+| 🚢 **Deployment** | Cloud & platform deployment | [DEPLOYMENT.md](DEPLOYMENT.md) |
+| 🔧 **Troubleshooting** | Fix common issues | [TROUBLESHOOTING.md](TROUBLESHOOTING.md) |
 | 📊 **Tableau Guide** | BI visualization setup | [TABLEAU_GUIDE.md](TABLEAU_GUIDE.md) |
 | 🤝 **Contributing** | How to contribute | [CONTRIBUTING.md](CONTRIBUTING.md) |
 | 📝 **Project Summary** | Technical deep dive | [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) |
